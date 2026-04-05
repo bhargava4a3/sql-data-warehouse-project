@@ -103,6 +103,5 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **K Bhargava**, I’m an IT professional and passionate about IT skills working with data enjoyable and engaging!
+Hi there! I'm **K Bhargava**, an IT professional and passionate about IT skills, working with data in an enjoyable, engaging way!
 
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
